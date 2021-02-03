@@ -7,10 +7,47 @@
     flex-direction: row;
     align-content: flex-end;
 	position: relative;
-	top: 750px;
-	margin-left: 80px;
+	top: 50px;
+	margin-left: 10px;
 	font-size: 18px;
 	font-family: Nunito Sans;
     font-style: normal;
     
 }
+.container{
+	background-image: url('/assets/background-image1.png');
+	height: 70vh;
+	width: 50%;
+	margin-left: 35em;
+	background-repeat: no-repeat;
+  }
+  .navbar{
+	font-size: 1.2em;
+}
+.column { float: left;}
+.half { width: 60%;font-size: 16px; }
+.last { float: none; width: auto; }
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+  }
+   td,th{
+	text-align:left;
+	border-bottom: 1px solid #dddddd;
+	padding: 8px;
+  }
+  .SR{
+	text-align: right;
+	border-bottom: 1px solid #dddddd;
+	float:right;
+	width: 100%;
+  }
+  .Innings{
+	color:white;
+	background-color:red
+  }
+  
+  
+
+  
